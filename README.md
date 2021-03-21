@@ -4,7 +4,7 @@
 
 - Origine : https://github.com/Nikya/slabShed  
 - Version : <a href="https://github.com/Nikya/slabShed/releases"><span id="textVerson">000-202103181345</span></a>
-- Collections : [Référencées](COLLECTIONS)
+- Collections : [Référencées](COLLECTIONS.md)
 
 ## Concept
 
@@ -59,7 +59,7 @@ Ce projet appel les créatifs à concevoir leur propre ensemble et la rendre dis
 - En la publiant sur les sites de partage habituels
 - Ou en la poussant (push request) vers ce projet d'origine
 
-Voir la page [CONTRIBUTING](CONTRIBUTING) pour savoir comment produire une collection tout en respectant les _contraintes techniques et artistiques_ imposées.
+Voir la page [CONTRIBUTING](CONTRIBUTING.md) pour savoir comment produire une collection tout en respectant les _contraintes techniques et artistiques_ imposées.
 
 ### Licence
 
@@ -67,7 +67,7 @@ La licence choisie pour ce projet convie à la collaboration :
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
-Plus de détail à propos de cette licence sur la page [LICENSE](LICENSE).
+Plus de détail à propos de cette licence sur la page [LICENSE](LICENSE.md).
 
 #### En résumé
 
