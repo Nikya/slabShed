@@ -3,7 +3,7 @@
 ![Slab Shed Cover](resources/identity/SlabShed_cover.png)
 
 - Origine : https://github.com/Nikya/slabShed  
-- Version : <a href="https://github.com/Nikya/slabShed/releases"><span id="textVerson">000-202103181345</span></a>
+- Version : <a href="https://github.com/Nikya/slabShed/releases"><span id="textVerson">1.0-202103211921</span></a>
 - Collections : [Référencées](COLLECTIONS.md)
 
 ## Concept
