@@ -52,6 +52,10 @@ Trouver une collection qui vous inspire parmit :
     - [Twitter](https://twitter.com/hashtag/slabShed)
     - [Facebook](https://www.facebook.com/hashtag/slabShed)
 
+Autres possibilités :
+- Voir du coté des [demandes de collection](https://github.com/Nikya/slabShed/issues?q=is%3Aopen+is%3Aissue+sort%3Areactions-%2B1-desc+label%3A%22collection+request%22) et voter 👍 pour espérer les voir être réalisées 
+- Ou proposer vos idée en suivant [cet exemple](https://github.com/Nikya/slabShed/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+
 ## Collaboratif
 
 Ce projet appel les créatifs à concevoir leur propre ensemble et la rendre disponible à la communauté :
