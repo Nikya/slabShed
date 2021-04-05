@@ -63,7 +63,7 @@ Like `shed_99_88x77_MyCollectionName_ShedName`, where
 ### Images 
 
 Recomanded (not mandatory) images size for overview and picture :
-- ratio 3:2 as 480x360px
+- ratio 4:3 as 480x360px
 - ratio 1:1 as 360x360px
 
 ## Technical and Artistic constraints

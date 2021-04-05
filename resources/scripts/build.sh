@@ -34,8 +34,9 @@ find ./ -regex '.*\.FCStd[0-9]+' -print -delete
 ##### Git tag preparing
 echo ; echo "#########################"
 echo "$me Git tag preparing (not executed)"
+echo "    git commit -am 'Prepare release $version'"
 echo "    git tag -a $version -m 'SlabShed release $version'"
-echo "    git push origin --tags"
+echo "    git push origin && git push origin --tags"
 
 ##### End
 echo ; echo "#########################"
