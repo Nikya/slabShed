@@ -9,7 +9,8 @@ From the <em>Slab Shed</em> project <a xmlns:dct="http://purl.org/dc/terms/" hre
 
 ## Description
 
-This is to serve as a starting structure for a new collection `README` file.
+This is to serve as a **_starting structure_**, to be **duplicate** for creating a _new collection_ structure folder and `README` file.  
+Now see the CONTRIBUTING file for further  informations.
 
 ## Overview
 
@@ -21,12 +22,12 @@ This is to serve as a starting structure for a new collection `README` file.
 
 ## Slabs
 
-1 pink slab
+1 star slab
 
-![Pink Slab](slab_duplicateMe_pink.png)
+![Star Slab](slab_duplicateMe_star.png)
 
 ## Sheds
 
-1 pink shed with 10 racks: 4 in with, 3 in higth minus 2 in the middle.
+1 shed with 2 racks: 1 in with, 1 in higth.
 
-![Pink Shed](shed_10_4x3_duplicateMe_pink.png)
+![Diagonal Shed](shed_2_1x1_duplicateMe_pink.png)

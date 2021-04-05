@@ -63,8 +63,8 @@ Like `shed_99_88x77_MyCollectionName_ShedName`, where
 ### Images 
 
 Recomanded (not mandatory) images size for overview and picture :
-- ratio: 3:2
-- 480x320px
+- ratio 3:2 as 480x360px
+- ratio 1:1 as 360x360px
 
 ## Technical and Artistic constraints
 
@@ -84,6 +84,6 @@ The **artistic** part of a _Slab_ is more free, it just must not destabilize the
 
 - an high-relief (sculpture)
 - an bas-relief 
-- an engraving
-- an protrusion
+- an engraving (-1mm)
+- an protrusion (+1mm)
 - ...
