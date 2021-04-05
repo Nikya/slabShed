@@ -1,0 +1,35 @@
+GIMP Palette
+Name: Slab Shed
+
+# Base color
+255   0   0  Red (#FF0000)
+0   255   0  Green (#00FF00)
+  0   0 255  Blue (#0000FF) 
+255 255   0  Yellow (#FFFF00)
+  0 255 255  Aqua (#00FFFF)
+255   0 255  Fuchsia (#FF00FF)
+
+# Black to white
+  0   0   0  Black
+ 26  26  26  90% Gray
+ 51  51  51  80% Gray
+ 77  77  77  70% Gray
+102 102 102  60% Gray
+128 128 128  50% Gray
+153 153 153  40% Gray
+179 179 179  30% Gray
+204 204 204  20% Gray
+230 230 230  10% Gray
+236 236 236  7.5% Gray
+242 242 242  5% Gray
+249 249 249  2.5% Gray
+255 255 255  White
+
+# Slab shed part 
+
+247  37 133  Flickr Pink (#f72585)
+181  23 158  Byzantine (#b5179e)
+114   9 183  Purple (#7209b7)
+94  252 141  Spring Green (#5efc8d)
+0   194 209  Dark Turquoise (#00c2d1)
+72  149 239  Dodger Blue (#4895ef)
