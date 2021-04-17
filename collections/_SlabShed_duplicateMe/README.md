@@ -22,12 +22,16 @@ Now see the CONTRIBUTING file for further  informations.
 
 ## Slabs
 
-1 star slab
+### Star
 
-![Star Slab](slab_duplicateMe_star.png)
+The star slab
+
+![Star Slab](resources/slab_duplicateMe_star.png)
 
 ## Sheds
 
-1 shed with 2 racks: 1 in with, 1 in higth.
+### 2 in diag
 
-![Diagonal Shed](shed_2_1x1_duplicateMe_pink.png)
+A diagonal Shed with 2 racks: 1 in with, 1 in higth.
+
+![Diagonal Shed](resources/shed_2_1x1_duplicateMe_pink.png)

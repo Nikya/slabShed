@@ -13,7 +13,7 @@ The fundamental elements of the project.
 
 ## Overview
 
-![Main overview](overview1.png "the main overview of this Slab collection")
+![Main overview](resources/overview1.png "the main overview of this Slab collection")
 
 ## Get content
 
@@ -23,7 +23,7 @@ The fundamental elements of the project.
 
 1 blank slab
 
-![Blank Slab](slab_foundation_blank.png)
+![Blank Slab](resources/slab_foundation_blank.png)
 
 ## Sheds
 
@@ -33,16 +33,16 @@ The fundamental elements of the project.
 
 2 in height and width.
 
-![2x2 Shed](shed_4_2x2_foundation_flat.png)
+![2x2 Shed](resources/shed_4_2x2_foundation_flat.png)
 
 ### 9 racks
 
 3 in height and width.
 
-![3x3 Shed](shed_9_3x3_foundation_flat.png)
+![3x3 Shed](resources/shed_9_3x3_foundation_flat.png)
 
 ### 12 racks
 
 3 in height and 4 in width.
 
-![4x3 Shed](shed_12_4x3_foundation_flat.png)
+![4x3 Shed](resources/shed_12_4x3_foundation_flat.png)

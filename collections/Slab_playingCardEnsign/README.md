@@ -18,7 +18,7 @@ The 4 Ensigns of French traditional playing card game, remixed in _Slab Shed_ st
 
 ## Overview
 
-![Main overview](overview1.png "The main overview of this Slab collection")
+![Main overview](resources/overview1.png "The main overview of this Slab collection")
 
 ## Get content
 
@@ -28,16 +28,16 @@ The 4 Ensigns of French traditional playing card game, remixed in _Slab Shed_ st
 
 ### Carreau
 
-![Carreau](slab_playingCardEnsign_carreau.png "Carreau ensign")
+![Carreau](resources/slab_playingCardEnsign_carreau.png "Carreau ensign")
 
 ### Trefle
 
-![Trefle](slab_playingCardEnsign_trefle.png "Trefle ensign")
+![Trefle](resources/slab_playingCardEnsign_trefle.png "Trefle ensign")
 
 ### Pique
 
-![Pique](slab_playingCardEnsign_pique.png "Pique ensign")
+![Pique](resources/slab_playingCardEnsign_pique.png "Pique ensign")
 
 ### Cœur
 
-![Coeur](slab_playingCardEnsign_coeur.png "Cœur ensign")
+![Coeur](resources/slab_playingCardEnsign_coeur.png "Cœur ensign")

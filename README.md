@@ -4,7 +4,8 @@
 
 - Origine : https://github.com/Nikya/slabShed  
 - Version : <a href="https://github.com/Nikya/slabShed/releases"><span id="textVerson">1.1-202104051838</span></a>
-- [Indexe des collections référencées](COLLECTIONS.md)
+
+**Parcourir l'index des [COLLECTIONS](COLLECTIONS.md) référencées.**
 
 ## Concept
 
@@ -14,8 +15,8 @@ Elle se présente sous la forme de petits éléments nommés _Slab_ à disposer 
 
 Elles sont vouées à être produites par soi-même par impressions 3D.
 
-![Slab Shed Project Overview](resources/projectOverview/projectOverview1.png)
-![Slab Shed Project Overview](resources/projectOverview/projectOverview2.jpg)
+![Slab Shed Project Overview](resources/projectOverview1.png)
+![Slab Shed Project Overview](resources/projectOverview2.jpg)
 
 ### Slab
 
@@ -25,7 +26,7 @@ Elles ont une taille standard définie de 20x20cm et comportent sur elles une il
 
 Un ensemble de ces _Slabs_ sur un thème commun, constitue une collection.
 
-![Slab Shed Project Overview Slabs](resources/projectOverview/projectOverview_slabs.png)
+![Slab Shed Project Overview Slabs](resources/projectOverview_slabs.png)
 
 ### Shed
 
@@ -33,7 +34,7 @@ Un ensemble de ces _Slabs_ sur un thème commun, constitue une collection.
 
 Il en existe de plusieurs capacités et configurations à choisir selon la taille de la collection à exposer.
 
-![Slab Shed Project Overview Sheds](resources/projectOverview/projectOverview_shed.png)
+![Slab Shed Project Overview Sheds](resources/projectOverview_shed.png)
 
 ## Les collections
 
@@ -46,7 +47,7 @@ Trouver une collection qui vous inspire parmit :
 - **En ligne** : au travers des plateformes dédiées
   - [GitHub](https://github.com/topics/slabShed)
   - [Thingiverse](https://www.thingiverse.com/search?q=slabShed)
-  - [Cults3d](https://cults3d.com/fr/recherche?q=minecraft)
+  - [Cults3d](https://cults3d.com/fr/recherche?q=slabShed)
 - **Exposée** : Les réalisations exposées sur les réseaux sociaux
     - [Instagram](https://www.instagram.com/explore/tags/slabShed/)
     - [Twitter](https://twitter.com/hashtag/slabShed)

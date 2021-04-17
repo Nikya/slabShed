@@ -13,7 +13,7 @@ Slab from _Social Networks_ icon.
 
 ## Overview
 
-![Main overview](overview1.png "the main overview of this Slab collection")
+![Main overview](resources/overview1.png "the main overview of this Slab collection")
 
 ## Get content
 
@@ -23,19 +23,19 @@ Slab from _Social Networks_ icon.
 
 ### Facebook
 
-![Facebook](slab_socialNetworks_facebook.png)
+![Facebook](resources/slab_socialNetworks_facebook.png)
 
 ### Instagram
 
-![Facebook](slab_socialNetworks_instagram.png)
+![Facebook](resources/slab_socialNetworks_instagram.png)
 
 ### Snapchat
 
-![Facebook](slab_socialNetworks_snapchat.png)
+![Facebook](resources/slab_socialNetworks_snapchat.png)
 
 ### Twitter
 
-![Facebook](slab_socialNetworks_twitter.png)
+![Facebook](resources/slab_socialNetworks_twitter.png)
 
 ## Credit
 
