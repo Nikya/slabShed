@@ -4,7 +4,7 @@
 echo ; echo "#########################"
 me="SlabShebBuilder >"
 echo "$me Start building !"
-echo "$me into"
+echo "$me into folder:"
 projectRoot="../.." # Up 2 times : resources/scripts
 cd $projectRoot
 pwd
@@ -14,6 +14,13 @@ version=$(date '+%Y%m%d%H%M')
 version="$1-$version"
 
 echo "$me Version to build '$version'"
+
+##### Continue?
+
+read -p "Are you sure you wish to continue? (y/n) : "
+if [ "$REPLY" != "y" ]; then
+   exit
+fi
 
 ##### Edit README
 echo ; echo "#########################"
