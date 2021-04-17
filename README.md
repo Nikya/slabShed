@@ -15,9 +15,11 @@ Elle se présente sous la forme de petits éléments nommés _Slab_ à disposer 
 
 Elles sont vouées à être produites par soi-même par impressions 3D.
 
-<img src="resources/projectOverview1.png" width="276px"/>
-<img src="resources/projectOverview2.jpg" width="276px"/>
-<img src="resources/projectOverview3.jpg" width="276px"/>
+<p>
+<img src="resources/projectOverview2.jpg" width="32%"/>
+<img src="resources/projectOverview1.png" width="32%"/>
+<img src="resources/projectOverview3.jpg" width="32%"/>
+</p>
 
 ### Slab
 
