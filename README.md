@@ -15,8 +15,9 @@ Elle se présente sous la forme de petits éléments nommés _Slab_ à disposer 
 
 Elles sont vouées à être produites par soi-même par impressions 3D.
 
-![Slab Shed Project Overview](resources/projectOverview1.png)
-![Slab Shed Project Overview](resources/projectOverview2.jpg)
+<img src="resources/projectOverview1.png" width="276px"/>
+<img src="resources/projectOverview2.jpg" width="276px"/>
+<img src="resources/projectOverview3.jpg" width="276px"/>
 
 ### Slab
 
