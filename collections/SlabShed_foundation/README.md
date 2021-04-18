@@ -27,22 +27,34 @@ The fundamental elements of the project.
 
 ## Sheds
 
-3 basics flat Sheds.
+5 basics flat Sheds.
+
+### 1 rack
+
+Only one rack, useful for **printing tests** and checking the _interlocking_ of Slabs.
+
+![1x1 Shed](resources/shed_1_1x1_foundation_flat.png)
 
 ### 4 racks
 
-2 in height and width.
+2 in width and height.
 
 ![2x2 Shed](resources/shed_4_2x2_foundation_flat.png)
 
+### 6 racks
+
+2 in width and 3 in height.
+
+![2x3 Shed](resources/shed_6_2x3_foundation_flat.png)
+
 ### 9 racks
 
-3 in height and width.
+ 3 in width and height.
 
 ![3x3 Shed](resources/shed_9_3x3_foundation_flat.png)
 
 ### 12 racks
 
-3 in height and 4 in width.
+4 in width and 3 in height.
 
 ![4x3 Shed](resources/shed_12_4x3_foundation_flat.png)
