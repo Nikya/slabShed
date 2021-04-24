@@ -2,13 +2,13 @@
 
 ## [Foundation](collections/SlabShed_foundation)
 
-![This collection Overview one](collections/SlabShed_foundation/resources/overview1.png)
+![This collection Overview](collections/SlabShed_foundation/resources/overview1.png)
 
 ## [Playing card ensign](collections/Slab_playingCardEnsign/README.md)
 
-![This collection Overview one](collections/Slab_playingCardEnsign/resources/overview1.png)
+![This collection Overview](collections/Slab_playingCardEnsign/resources/overview1.png)
 
 
-## [Social Networks](collections/Slab_socialNetworks)
+## [The Digital World](collections/Slab_digitalWorld)
 
-![This collection Overview one](collections/Slab_socialNetworks/resources/overview1.png)
+![This collection Overview](collections/Slab_digitalWorld/resources/overview1.png)

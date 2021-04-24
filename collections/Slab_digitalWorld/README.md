@@ -1,4 +1,4 @@
-# Slab - Social networks collection
+# Slab - The Digital World collection
 
 From the <em>Slab Shed</em> project <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Nikya/slabShed" rel="dct:source">https://github.com/Nikya/slabShed</a> — CC BY-SA.
 
@@ -9,7 +9,7 @@ From the <em>Slab Shed</em> project <a xmlns:dct="http://purl.org/dc/terms/" hre
 
 ## Description
 
-Slab from _Social Networks_ icon.
+Slab from _The Digital World_ icon website or apps.
 
 ## Overview
 
@@ -23,19 +23,19 @@ Slab from _Social Networks_ icon.
 
 ### Facebook
 
-![Facebook](resources/slab_socialNetworks_facebook.png)
+![Facebook](resources/slab_digitalWorld_facebook.png)
 
 ### Instagram
 
-![Facebook](resources/slab_socialNetworks_instagram.png)
+![Facebook](resources/slab_digitalWorld_instagram.png)
 
 ### Snapchat
 
-![Facebook](resources/slab_socialNetworks_snapchat.png)
+![Facebook](resources/slab_digitalWorld_snapchat.png)
 
 ### Twitter
 
-![Facebook](resources/slab_socialNetworks_twitter.png)
+![Facebook](resources/slab_digitalWorld_twitter.png)
 
 ## Credit
 
