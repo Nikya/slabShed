@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="SlabShed_foundation_overview1.svg"
+   sodipodi:docname="SlabShed_duplicateMe_overview1.svg"
    inkscape:export-filename="F:\git\slabShed\collections\_SlabShed_duplicateMe\shed_2_1x1_duplicateMe_pink.png"
    inkscape:export-xdpi="198.78262"
    inkscape:export-ydpi="198.78262">
@@ -27,10 +27,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.0000001"
-     inkscape:cx="55.398415"
-     inkscape:cy="88.21858"
+     inkscape:cx="68.041548"
+     inkscape:cy="88.810172"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="mm"
      inkscape:pagecheckerboard="true"
@@ -94,7 +94,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Shed"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        id="rect89"
        style="display:inline;fill:#4895ef;stroke-width:1.5;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
@@ -105,10 +106,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="EmptySlab">
+     inkscape:label="Rack"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        id="rect838"
-       style="display:inline;fill:#1164c4;fill-opacity:1;stroke:#333333;stroke-width:0.132292;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+       style="display:inline;fill:#1164c4;fill-opacity:1;stroke:#333333;stroke-width:0.15;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
        d="m 5,0 h 9.999979 c 2.77,0 5,2.23 5,5 v 9.999998 l -5,5 H 5 c -2.77,0 -5,-2.23 -5,-5 V 5 C 0,2.23 2.23,0 5,0 Z"
        sodipodi:nodetypes="sssccssss"
        inkscape:export-filename="F:\git\slabShed\collections\Slab_ digitalWorld\slab_digitalWorld_facebook.png"
@@ -117,8 +120,24 @@
        transform="translate(24.11111,1.8888904)" />
     <path
        id="path839"
-       style="display:inline;fill:#1164c4;fill-opacity:1;stroke:#333333;stroke-width:0.132292;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+       style="display:inline;fill:#1164c4;fill-opacity:1;stroke:#333333;stroke-width:0.15;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
        d="m 6.888911,24.111112 h 9.999979 c 2.77,0 5,2.23 5,5 v 9.999997 l -5,5 H 6.888911 c -2.77,0 -5,-2.23 -5,-5 v -9.999997 c 0,-2.77 2.23,-5 5,-5 z"
+       sodipodi:nodetypes="sssccssss"
+       inkscape:export-filename="F:\git\slabShed\collections\Slab_ digitalWorld\slab_digitalWorld_facebook.png"
+       inkscape:export-xdpi="335"
+       inkscape:export-ydpi="335" />
+    <path
+       id="path841"
+       style="display:inline;fill:#1164c4;fill-opacity:1;stroke:#333333;stroke-width:0.15;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+       d="m 6.8227653,1.8888904 h 9.9999787 c 2.77,0 5,2.23 5,5 v 9.9999976 l -5,5 H 6.8227653 c -2.7699998,0 -4.9999998,-2.23 -4.9999998,-5 V 6.8888904 c 0,-2.77 2.23,-5 4.9999998,-5 z"
+       sodipodi:nodetypes="sssccssss"
+       inkscape:export-filename="F:\git\slabShed\collections\Slab_ digitalWorld\slab_digitalWorld_facebook.png"
+       inkscape:export-xdpi="335"
+       inkscape:export-ydpi="335" />
+    <path
+       id="path843"
+       style="display:inline;fill:#1164c4;fill-opacity:1;stroke:#333333;stroke-width:0.15;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+       d="m 29.11111,24.177257 h 9.999979 c 2.77,0 5,2.23 5,5 v 9.999998 l -5,5 H 29.11111 c -2.77,0 -5,-2.23 -5,-5 v -9.999998 c 0,-2.77 2.23,-5 5,-5 z"
        sodipodi:nodetypes="sssccssss"
        inkscape:export-filename="F:\git\slabShed\collections\Slab_ digitalWorld\slab_digitalWorld_facebook.png"
        inkscape:export-xdpi="335"
@@ -127,18 +146,49 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="CROP" />
+     inkscape:label="Slab"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       id="path845"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#7209b7;stroke-width:0.3;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+       d="m 5,0 h 9.999979 c 2.77,0 5,2.23 5,5 v 9.999998 l -5,5 H 5 c -2.77,0 -5,-2.23 -5,-5 V 5 C 0,2.23 2.23,0 5,0 Z"
+       sodipodi:nodetypes="sssccssss"
+       inkscape:export-filename="F:\git\slabShed\collections\Slab_ digitalWorld\slab_digitalWorld_facebook.png"
+       inkscape:export-xdpi="335"
+       inkscape:export-ydpi="335"
+       transform="translate(24.11111,1.8888904)" />
+    <path
+       id="path847"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#7209b7;stroke-width:0.3;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+       d="m 6.888911,24.111112 h 9.999979 c 2.77,0 5,2.23 5,5 v 9.999997 l -5,5 H 6.888911 c -2.77,0 -5,-2.23 -5,-5 v -9.999997 c 0,-2.77 2.23,-5 5,-5 z"
+       sodipodi:nodetypes="sssccssss"
+       inkscape:export-filename="F:\git\slabShed\collections\Slab_ digitalWorld\slab_digitalWorld_facebook.png"
+       inkscape:export-xdpi="335"
+       inkscape:export-ydpi="335" />
+    <path
+       id="path849"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#7209b7;stroke-width:0.3;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+       d="m 6.8227653,1.8888904 h 9.9999787 c 2.77,0 5,2.23 5,5 v 9.9999976 l -5,5 H 6.8227653 c -2.7699998,0 -4.9999998,-2.23 -4.9999998,-5 V 6.8888904 c 0,-2.77 2.23,-5 4.9999998,-5 z"
+       sodipodi:nodetypes="sssccssss"
+       inkscape:export-filename="F:\git\slabShed\collections\Slab_ digitalWorld\slab_digitalWorld_facebook.png"
+       inkscape:export-xdpi="335"
+       inkscape:export-ydpi="335" />
+    <path
+       id="path851"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#7209b7;stroke-width:0.3;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+       d="m 29.11111,24.177257 h 9.999979 c 2.77,0 5,2.23 5,5 v 9.999998 l -5,5 H 29.11111 c -2.77,0 -5,-2.23 -5,-5 v -9.999998 c 0,-2.77 2.23,-5 5,-5 z"
+       sodipodi:nodetypes="sssccssss"
+       inkscape:export-filename="F:\git\slabShed\collections\Slab_ digitalWorld\slab_digitalWorld_facebook.png"
+       inkscape:export-xdpi="335"
+       inkscape:export-ydpi="335" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="slab"
-     style="display:none"
+     inkscape:label="Glyph"
+     style="display:inline"
      transform="translate(24.11111,1.8888904)">
-    <path
-       id="path1038"
-       style="display:inline;fill:#e6e6e6;fill-opacity:1;stroke:#7209b7;stroke-width:0.264583;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
-       d="m -17.222199,22.222221 h 9.9999791 c 2.77,0 5,2.23 5,5 v 9.999998 l -5,5 h -9.9999791 c -2.77,0 -5,-2.23 -5,-5 v -9.999998 c 0,-2.77 2.23,-5 5,-5 z"
-       sodipodi:nodetypes="sssccssss" />
     <path
        sodipodi:type="star"
        style="fill:#1a1a1a;fill-opacity:1;stroke:#7209b7;stroke-width:0.132292;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
