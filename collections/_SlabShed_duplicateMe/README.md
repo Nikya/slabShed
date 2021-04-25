@@ -14,7 +14,7 @@ Now see the CONTRIBUTING file for further  informations.
 
 ## Overview
 
-![Main overview](overview1.png "the main overview of this Slab collection")
+![Main overview](resources/overview1.png "the main overview of this Slab collection")
 
 ## Get content
 

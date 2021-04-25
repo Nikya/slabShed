@@ -36,7 +36,7 @@ echo "<<<README HEAD"
 echo ; echo "#########################"
 echo "$me Removing useless file (like FreeCad backup file '*.FCStd99')"
 echo
-find ./ -regex '.*\.FCStd[0-9]+' -print -delete
+source resources/scripts/freeCadBackupCleanner.sh
 
 ##### Git tag preparing
 echo ; echo "#########################"
