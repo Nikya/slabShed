@@ -5,7 +5,7 @@
 - Origine : https://github.com/Nikya/slabShed  
 - Version : <a href="https://github.com/Nikya/slabShed/releases"><span id="textVerson">1.2-202104171223</span></a>
 
-**Parcourir l'index des [COLLECTIONS](COLLECTIONS.md) référencées.**
+**Parcourir les [COLLECTIONS](COLLECTIONS.md) référencées.**
 
 ## Concept
 
@@ -41,24 +41,23 @@ Il en existe de plusieurs capacités et configurations à choisir selon la taill
 
 ## Les collections
 
+Parcourir la page [**COLLECTIONS**](COLLECTIONS.md), pour en trouver une qui vous inspire parmit celles référencées par ce projet.
+
+### Autres possibilités
+    
 > [**_#slabShed_**](https://www.google.com/search?q=%23slabShed)
 
-Trouver une collection qui vous inspire parmit :
-
-- **Les référencée** : Les collections intégrées ou mise en lumière directement par ce projet.
-    -  Page [COLLECTIONS](COLLECTIONS.md)
-- **En ligne** : au travers des plateformes dédiées
+- **En ligne**, au travers des plateformes dédiées
   - [GitHub](https://github.com/topics/slabShed)
   - [Thingiverse](https://www.thingiverse.com/search?q=slabShed)
   - [Cults3d](https://cults3d.com/fr/recherche?q=slabShed)
-- **Exposée** : Les réalisations exposées sur les réseaux sociaux
+- **Les exposées** sur les réseaux sociaux
     - [Instagram](https://www.instagram.com/explore/tags/slabShed/)
     - [Twitter](https://twitter.com/hashtag/slabShed)
     - [Facebook](https://www.facebook.com/hashtag/slabShed)
-
-Autres possibilités :
-- Voir du coté des [demandes de collection](https://github.com/Nikya/slabShed/issues?q=is%3Aopen+is%3Aissue+sort%3Areactions-%2B1-desc+label%3A%22collection+request%22) et voter 👍 pour espérer les voir être réalisées 
-- Ou proposer vos idée en suivant [cet exemple](https://github.com/Nikya/slabShed/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+- **Les demandées** 
+  - [Demandes de collection](https://github.com/Nikya/slabShed/issues?q=is%3Aopen+is%3Aissue+sort%3Areactions-%2B1-desc+label%3A%22collection+request%22) déjà exprimée et voter 👍 pour espérer les voir être réalisées 
+  - Ou proposer vos idée en suivant [cet exemple](https://github.com/Nikya/slabShed/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 
 ## Collaboratif
 
@@ -75,27 +74,28 @@ La licence choisie pour ce projet convie à la collaboration :
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
-Plus de détail à propos de cette licence sur la page [LICENSE](LICENSE.md).
+Pour plus de détail, voir la page [LICENSE](LICENSE.md) dédiée.
 
 #### En résumé
 
 - vous êtes autorisés à partager, adapter, créer à partir de ce projet.
 - vous pouvez revendre vos créations
 - à condition de repartager le résultat sous les mêmes conditions
-- avec l'obligation d'attribuer un crédit à ce projet d'origine, dans un README ou le descriptif de votre collection, comme suit :
+- avec l'**obligation d'attribuer un crédit** à ce projet d'origine, dans un README ou le descriptif de votre collection, comme suit :
 
 ##### Aperçue
-> From the <em>Slab Shed</em> project <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Nikya/slabShed" rel="dct:source">https://github.com/Nikya/slabShed</a> — CC BY-SA.
+
+> Contribution to the <em>Slab Shed</em> project <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Nikya/slabShed" rel="dct:source">https://github.com/Nikya/slabShed</a> — CC BY-SA.
 
 ##### Html
 ```html
-From the <em>Slab Shed</em> project <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Nikya/slabShed" rel="dct:source">https://github.com/Nikya/slabShed</a> — CC BY-SA.
+Contribution to the <em>Slab Shed</em> project <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Nikya/slabShed" rel="dct:source">https://github.com/Nikya/slabShed</a> — CC BY-SA.
 ```
 
 ### Open source
 
 Ce projet promouvoit l'utilisation plus libre et gratuite d'outils _Open Source_.   
-Il exploite par exemple :
+Il utilise par exemple :
 
 - [Inkscape](https://inkscape.org/) : Pour les dessins 2D et illustrations
 - [FreeCad](https://www.freecadweb.org) : Pour la conception 3D _technique_
@@ -107,3 +107,11 @@ Ce projet favorise l'apprentissage, car il donne le prétexte de **partager son 
 #### Liste des tutos référencés
 
 - Comming soon…
+
+# Trademark Disclaimer
+
+All logos, product and company names are trademarks™ or registered® trademarks of their respective owners:
+- Use of them does not imply any endorsement by them.
+- Use of them does not imply any affiliation. 
+- Use of them is just for artistic purposes.
+

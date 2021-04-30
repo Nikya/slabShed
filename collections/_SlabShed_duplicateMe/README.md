@@ -1,11 +1,11 @@
 # Slab and Shed - DuplicateMe collection
 
-From the <em>Slab Shed</em> project <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Nikya/slabShed" rel="dct:source">https://github.com/Nikya/slabShed</a> — CC BY-SA.
+## About
 
-## Author
+- Contributor: **TheDuplicator**
+  - https://github.com/TheDuplicator
+- Contribution to the <em>Slab Shed</em> project <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Nikya/slabShed" rel="dct:source">https://github.com/Nikya/slabShed</a> — CC BY-SA.
 
-- TheDuplicator
-- Poke me at : https://github.com/TheDuplicator
 
 ## Description
 

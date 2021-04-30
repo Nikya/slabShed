@@ -1,11 +1,10 @@
 # Slab collection — Playing card ensign
 
-From the <em>Slab Shed</em> project <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Nikya/slabShed" rel="dct:source">https://github.com/Nikya/slabShed</a> — CC BY-SA.
+## About
 
-## Author
-
-- Nikya
-- Poke me at : https://github.com/Nikya/
+- Contributor: **Nikya**
+  - https://github.com/Nikya
+- Contribution to the <em>Slab Shed</em> project <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Nikya/slabShed" rel="dct:source">https://github.com/Nikya/slabShed</a> — CC BY-SA.
 
 ## Description
 
