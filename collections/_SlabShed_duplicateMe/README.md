@@ -2,8 +2,7 @@
 
 ## About
 
-- Contributor: **TheDuplicator**
-  - https://github.com/TheDuplicator
+- Contributor: **TheDuplicator** - https://github.com/TheDuplicator
 - Contribution to the <em>Slab Shed</em> project <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Nikya/slabShed" rel="dct:source">https://github.com/Nikya/slabShed</a> — CC BY-SA.
 
 
