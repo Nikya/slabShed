@@ -34,7 +34,7 @@ echo "<<<README HEAD"
 
 ##### Cleaning
 echo ; echo "#########################"
-echo "$me Removing useless file (like FreeCad backup file '*.FCStd99')"
+echo "$me Removing useless file (like FreeCad backup file .FCStd99, .FCBak)"
 echo
 source resources/scripts/freeCadBackupCleanner.sh
 
