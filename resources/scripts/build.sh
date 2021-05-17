@@ -41,10 +41,12 @@ source resources/scripts/freeCadBackupCleanner.sh
 ##### Git tag preparing
 echo ; echo "#########################"
 echo "$me Git tag preparing (not executed)"
+echo "    cd ../.. && git status"
 echo "    git commit -am 'Prepare release $version'"
 echo "    git tag -a $version -m 'SlabShed release $version'"
 echo "    git push origin && git push origin --tags"
 
 ##### End
 echo ; echo "#########################"
+
 echo "$me Done!"
