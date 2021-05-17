@@ -113,5 +113,4 @@ Ce projet favorise l'apprentissage, car il donne le prétexte de **partager son 
 All logos, product and company names are trademarks™ or registered® trademarks of their respective owners:
 - Use of them does not imply any endorsement by them.
 - Use of them does not imply any affiliation. 
-- Use of them is just for artistic purposes.
-
+- Use of them is just for personal and artistic purposes.
